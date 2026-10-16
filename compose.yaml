@@ -1,0 +1,10 @@
+services:
+  studio:
+    build: .
+    ports:
+      - "127.0.0.1:8960:8960"
+    volumes:
+      - studio-data:/app/data
+    restart: unless-stopped
+volumes:
+  studio-data:

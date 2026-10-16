@@ -1,0 +1,9 @@
+.venv/
+frontend/node_modules/
+data/
+__pycache__/
+*.pyc
+*.log
+.env
+
+# Prebuilt frontend/dist is intentionally included for Python-only startup.
