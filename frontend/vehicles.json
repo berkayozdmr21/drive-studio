@@ -1,0 +1,12 @@
+[
+  {"id":"458-study","name":"458 Italia","kind":"asset","label":"İkonik spor otomobil","base_price":219000,"length":4.55,"width":1.9,"height":1.15},
+  {"id":"apex","name":"Apex GT","kind":"coupe","label":"Grand touring coupé","base_price":145000,"length":4.6,"width":1.95,"height":1.28},
+  {"id":"volt","name":"Volt S","kind":"sedan","label":"Elektrikli spor sedan","base_price":78000,"length":4.85,"width":1.9,"height":1.45},
+  {"id":"terra","name":"Terra X","kind":"suv","label":"Macera SUV","base_price":92000,"length":4.75,"width":2.05,"height":1.83},
+  {"id":"metro","name":"Metro R","kind":"hatch","label":"Kompakt hatchback","base_price":34000,"length":3.85,"width":1.73,"height":1.45},
+  {"id":"nomad","name":"Nomad Utility","kind":"pickup","label":"Çift kabin pickup","base_price":68000,"length":5.35,"width":2.05,"height":1.85},
+  {"id":"aero","name":"Aero One","kind":"hyper","label":"Alçak hiper otomobil","base_price":310000,"length":4.8,"width":2.12,"height":1.08},
+  {"id":"coast","name":"Coast Spider","kind":"roadster","label":"Açık tavan roadster","base_price":115000,"length":4.25,"width":1.86,"height":1.18},
+  {"id":"trail","name":"Trail Rally","kind":"rally","label":"Ralli hatchback","base_price":52000,"length":4.1,"width":1.9,"height":1.53},
+  {"id":"atlas","name":"Atlas Touring","kind":"wagon","label":"Uzun tavan touring","base_price":74000,"length":4.95,"width":1.91,"height":1.49}
+]
